@@ -1,5 +1,5 @@
 # Python---klient-server-chat
-Server:
+Server: 
   -może wysyłać wiadomości
   -wylogowanie przez wpisanie #exit
 Klient:
