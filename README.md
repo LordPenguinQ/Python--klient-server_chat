@@ -1,8 +1,8 @@
 # Python---klient-server-chat
-# Server:  
+Server:  
   -może wysyłać wiadomości  
   -wylogowanie przez wpisanie #exit  
-# Klient:  
+Klient:  
   -może poać własny nick widoczny przez wszystkich  
   -wylogowanie przez wpisanie #exit  
-# Client2.py -> kopia Client.py dla otworzenia dwóch klientów o testu / chatu  
+Client2.py -> kopia Client.py dla otworzenia dwóch klientów o testu / chatu  
